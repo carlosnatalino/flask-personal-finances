@@ -1,2 +1,2 @@
-# flask-personal-finances
-Simple project for personal finances using Flask
+# Simple Personal Finances system in Flask
+
